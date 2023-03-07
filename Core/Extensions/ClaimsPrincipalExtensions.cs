@@ -23,4 +23,6 @@ namespace Core.Extensions
     // ClaimsPrincipal --> JsonWebToken ile gelen kişinin claimlerine ulaşmak için kullandığımız Sınıf
     //Üstteki Metot claim type'ını getirir
     //Alttaki metot claim rollerini getirir -->Çoğunlukla claim rolü lazım olur
+
+   
 }

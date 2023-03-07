@@ -12,5 +12,6 @@ namespace Business.Abstract
         List<OperationClaim> GetClaims(User user);
         void Add(User user);
         User GetByMail(string email);
-    }
+        
+    }//Claimleri getir kullancı ekle ve mail adresine göre kullanıcı getir
 }
